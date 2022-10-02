@@ -1,0 +1,12 @@
+F:\DevOps\Evento\EventoWeb\Shared\bin\Debug\net6.0\EventoWeb.Shared.deps.json
+F:\DevOps\Evento\EventoWeb\Shared\bin\Debug\net6.0\EventoWeb.Shared.dll
+F:\DevOps\Evento\EventoWeb\Shared\bin\Debug\net6.0\EventoWeb.Shared.pdb
+F:\DevOps\Evento\EventoWeb\Shared\obj\Debug\net6.0\EventoWeb.Shared.csproj.AssemblyReference.cache
+F:\DevOps\Evento\EventoWeb\Shared\obj\Debug\net6.0\EventoWeb.Shared.GeneratedMSBuildEditorConfig.editorconfig
+F:\DevOps\Evento\EventoWeb\Shared\obj\Debug\net6.0\EventoWeb.Shared.AssemblyInfoInputs.cache
+F:\DevOps\Evento\EventoWeb\Shared\obj\Debug\net6.0\EventoWeb.Shared.AssemblyInfo.cs
+F:\DevOps\Evento\EventoWeb\Shared\obj\Debug\net6.0\EventoWeb.Shared.csproj.CoreCompileInputs.cache
+F:\DevOps\Evento\EventoWeb\Shared\obj\Debug\net6.0\EventoWeb.Shared.dll
+F:\DevOps\Evento\EventoWeb\Shared\obj\Debug\net6.0\refint\EventoWeb.Shared.dll
+F:\DevOps\Evento\EventoWeb\Shared\obj\Debug\net6.0\EventoWeb.Shared.pdb
+F:\DevOps\Evento\EventoWeb\Shared\obj\Debug\net6.0\ref\EventoWeb.Shared.dll
